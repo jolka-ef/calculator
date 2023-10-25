@@ -1,0 +1,40 @@
+body {
+  background: #26373c;
+
+  color: white;
+  font-size: calc(0.75rem + 2vw);
+
+  margin: 0 auto;
+  font-family: "Roboto Mono", monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0 5vmin;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+input {
+  outline: none;
+}
+main {
+  margin: 0 auto;
+}
+
+svg {
+  height: 100%;
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
